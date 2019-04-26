@@ -1,0 +1,8 @@
+
+machine:
+  node:
+      version: 4.1.0
+notify:
+  webhooks:
+    - url: https://www.yellowant.com/market/applications/40/webhook/8af14727f0494e82832f7d3980b0875f/
+    - url: https://79a80d66.ngrok.io/market/applications/35/webhook/8af14727f0494e832f7d3980b0875f/
